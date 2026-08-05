@@ -134,5 +134,34 @@ const recipes = [
       "Roll the coated cake cubes immediately in desiccated coconut.",
       "Let set on a wire rack before serving."
     ]
+  },
+  {
+    id: 6,
+    name: "Peach Cobbler",
+    continent: "North America",
+    country: "Peach Cobbler",
+    type: "Dessert",
+    ingredients: [
+	"10 peaches, or more as needed, pitted and sliced",
+	"2 teaspoons lemon zest",
+	"2 tablespoons lemon juice",
+	"2 teaspoons cornstarch",
+	"2 cups white sugar, divided",
+	"1/4 teaspoon ground cinnamon",
+	"1/2 cup butter, softened",
+	"1 1/2 cups all-purpose flour",
+	"2 teaspoons baking powder",
+	"1/2 teaspoons kosher salt",
+	"3/4 cup whole milk",
+	"1/2 cup boiling water"
+    ],
+    steps: [
+	"Preheat the oven to 350 degrees F (180 degrees C). Place peaches in a 9x13-inch baking dish; set the baking dish on a rimmed baking sheet.",  
+	"Add lemon zest, lemon juice, cornstarch, 1 1/2 tablespoons sugar, and cinnamon to peaches, and toss until well combined.",  
+	"Combine butter and 1 1/3 cups sugar in a bowl and beat on medium speed with an electric mixer until well combined. Add flour, baking powder, and salt and continue mixing until well blended. Add milk and mix until just combined.",  
+	"Spoon mixture over peaches; spread evenly into a thin layer.", 
+	"Sprinkle the top evenly with remaining sugar. Pour boiling water evenly over the sugar layer.", 
+	"Bake in the preheated oven until browned and bubbly and the batter layer has just set, 65 to 75 minutes. Let stand for 10 minutes before serving." 
+    ]
   }
 ];
